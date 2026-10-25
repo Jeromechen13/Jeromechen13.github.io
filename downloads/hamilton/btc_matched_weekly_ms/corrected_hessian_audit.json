@@ -1,0 +1,666 @@
+{
+  "run_id": "20261015T112551Z_s3",
+  "model_id": "btc_matched_weekly_ms",
+  "method": "central_difference_of_unconstrained_total_logL_score",
+  "relative_step": 0.0001,
+  "statsmodels_hessian_source_sha256": "a0337bef76dcfc378f57b7ba90e1724cd4facb4ef393df73b6735ec78b4b2056",
+  "statsmodels_module_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\s0v_20261015\\Lib\\site-packages\\statsmodels\\tsa\\regime_switching\\markov_switching.py",
+  "statsmodels_module_sha256": "87798e60fd07d887fe832e9a54cd176d82411f965c39da90dbc331978445d625",
+  "coordinate_issue": "MarkovSwitching.hessian ignores transformed argument and calls approx_hess_cs(params,self.loglike), which evaluates loglike with default transformed=True; stored MLE Hessians used u with transformed=False and so refer to the wrong point/coordinate.",
+  "original_attempts": 8,
+  "audit_qualified_count": 8,
+  "audit_best_qualified_attempt": 2,
+  "same_optimum_audit_qualified_count": 8,
+  "B4_optimum_reproduced_after_hessian_audit": true,
+  "A0_baseline_non_publishable": false,
+  "attempts": [
+    {
+      "attempt_index": 0,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_000.json",
+      "source_attempt_sha256": "cec55074a3f1440e5d612deeacacade434c525fed46cb1c112a2ec101a8b3c0a",
+      "stored_hessian_condition": 31576532272788.42,
+      "stored_gradient_average_inf": 2.2423724512279327e-08,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.709889013861714,
+          -5.056433345973971,
+          0.2490117989308797,
+          0.01339476130537511,
+          2.9797027115993164,
+          0.11384651040309933
+        ],
+        [
+          -5.056433345973971,
+          -8.713880947575523,
+          -0.10176695355945056,
+          0.11010607579247636,
+          0.3206460177534707,
+          0.5050704547560853
+        ],
+        [
+          0.2490117989308797,
+          -0.10176695355945056,
+          -8.461321985721499,
+          -0.16097364033950573,
+          0.30988698221273564,
+          0.08696641250904177
+        ],
+        [
+          0.01339476130537511,
+          0.11010607579247636,
+          -0.16097364033950573,
+          -0.2750548453356405,
+          0.14477309788477233,
+          0.024002816651356666
+        ],
+        [
+          2.9797027115993164,
+          0.3206460177534707,
+          0.30988698221273564,
+          0.14477309788477233,
+          -11.70926187758328,
+          0.6505577182343906
+        ],
+        [
+          0.11384651040309933,
+          0.5050704547560853,
+          0.08696641250904177,
+          0.024002816651356666,
+          0.6505577182343906,
+          -0.44311345108339867
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.0003405705458330729,
+        "maximum_eigen": 0.0216524017625208,
+        "condition_number": 63.5768478144715,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 2.2423724512279327e-08,
+      "optimizer_success": true,
+      "logL": -2848.388280501651,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793082153390909,
+          0.2206917846609089
+        ],
+        "probability_normalization_max_error": 1.9984014443252818e-15,
+        "start_source": "model_default"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    },
+    {
+      "attempt_index": 1,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_001.json",
+      "source_attempt_sha256": "20c391e6132054a8ff6a4a7f2c728ad73f38d9b2c27e859583ae72172e3f77a6",
+      "stored_hessian_condition": 761180614163812.4,
+      "stored_gradient_average_inf": 1.3378772997749333e-08,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.709902798477545,
+          -5.056439244965021,
+          0.2490094681546569,
+          0.013394728874417342,
+          2.9797030380687657,
+          0.11384634685708817
+        ],
+        [
+          -5.056439244965021,
+          -8.713883789176965,
+          -0.10176477396363755,
+          0.11010534384292078,
+          0.32065681904409105,
+          0.5050713109516118
+        ],
+        [
+          0.2490094681546569,
+          -0.10176477396363755,
+          -8.461320538640148,
+          -0.16097333915227902,
+          0.3098918740695553,
+          0.08696578507501646
+        ],
+        [
+          0.013394728874417342,
+          0.11010534384292078,
+          -0.16097333915227902,
+          -0.2750535489806031,
+          0.14477190540133983,
+          0.024002157537484546
+        ],
+        [
+          2.9797030380687657,
+          0.32065681904409105,
+          0.3098918740695553,
+          0.14477190540133983,
+          -11.709254003216586,
+          0.6505582705416151
+        ],
+        [
+          0.11384634685708817,
+          0.5050713109516118,
+          0.08696578507501646,
+          0.024002157537484546,
+          0.6505582705416151,
+          -0.44310906993871
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.0003405690433440416,
+        "maximum_eigen": 0.02165242233113714,
+        "condition_number": 63.57718869141039,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 1.3378772997749333e-08,
+      "optimizer_success": true,
+      "logL": -2848.3882805016638,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793085779093357,
+          0.22069142209066403
+        ],
+        "probability_normalization_max_error": 2.886579864025407e-15,
+        "start_source": "precommitted_unconstrained_gaussian_jitter_0.15"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    },
+    {
+      "attempt_index": 2,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_002.json",
+      "source_attempt_sha256": "b639dea465433ebcc7f178672f0dc260fad031c29ad713a8c927596aac11cc52",
+      "stored_hessian_condition": 77050018129446.31,
+      "stored_gradient_average_inf": 7.6078653694103e-09,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.70990504547385,
+          -5.056437762110087,
+          0.24901017390615832,
+          0.013394826395286743,
+          2.9797036064813938,
+          0.11384636743926677
+        ],
+        [
+          -5.056437762110087,
+          -8.713879122308045,
+          -0.10176564459180028,
+          0.11010575786042737,
+          0.32065334036627036,
+          0.5050707440174551
+        ],
+        [
+          0.24901017390615832,
+          -0.10176564459180028,
+          -8.461321809350006,
+          -0.1609733561628904,
+          0.3098911944764803,
+          0.08696603271772056
+        ],
+        [
+          0.013394826395286743,
+          0.11010575786042737,
+          -0.1609733561628904,
+          -0.27505373520960763,
+          0.1447727212524022,
+          0.024002645267884537
+        ],
+        [
+          2.9797036064813938,
+          0.32065334036627036,
+          0.3098911944764803,
+          0.1447727212524022,
+          -11.70925823617312,
+          0.6505580805295301
+        ],
+        [
+          0.11384636743926677,
+          0.5050707440174551,
+          0.08696603271772056,
+          0.024002645267884537,
+          0.6505580805295301,
+          -0.443109811334116
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.0003405689155952501,
+        "maximum_eigen": 0.021652420575057767,
+        "condition_number": 63.57720738316217,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 7.6078653694103e-09,
+      "optimizer_success": true,
+      "logL": -2848.3882805016137,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793085049377727,
+          0.220691495062224
+        ],
+        "probability_normalization_max_error": 5.773159728050814e-15,
+        "start_source": "precommitted_unconstrained_gaussian_jitter_0.15"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    },
+    {
+      "attempt_index": 3,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_003.json",
+      "source_attempt_sha256": "f32f244be0997d8ee7073740fb4cd129ec88333b370ce281d1829ce0fecc17fc",
+      "stored_hessian_condition": 4.335752495606479e+21,
+      "stored_gradient_average_inf": 1.9282450833824754e-08,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.70991285043973,
+          -5.05644370774543,
+          0.24900966562786314,
+          0.013395082450719954,
+          2.979706336364919,
+          0.11384629567173568
+        ],
+        [
+          -5.05644370774543,
+          -8.713886074011889,
+          -0.10176509193699629,
+          0.1101063366417365,
+          0.32066208145358205,
+          0.5050712045488333
+        ],
+        [
+          0.24900966562786314,
+          -0.10176509193699629,
+          -8.461321888263585,
+          -0.16097313640660416,
+          0.3098914327582002,
+          0.08696617060406871
+        ],
+        [
+          0.013395082450719954,
+          0.1101063366417365,
+          -0.16097313640660416,
+          -0.2750526788444824,
+          0.1447737492557297,
+          0.0240032041955708
+        ],
+        [
+          2.979706336364919,
+          0.32066208145358205,
+          0.3098914327582002,
+          0.1447737492557297,
+          -11.70925285035976,
+          0.6505582045520768
+        ],
+        [
+          0.11384629567173568,
+          0.5050712045488333,
+          0.08696617060406871,
+          0.0240032041955708,
+          0.6505582045520768,
+          -0.4431070507346886
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.00034056672261749686,
+        "maximum_eigen": 0.021652440199926116,
+        "condition_number": 63.57767439376269,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 1.9282450834624598e-08,
+      "optimizer_success": true,
+      "logL": -2848.388280502011,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793087932638642,
+          0.22069120673613812
+        ],
+        "probability_normalization_max_error": 4.218847493575595e-15,
+        "start_source": "precommitted_unconstrained_gaussian_jitter_0.15"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    },
+    {
+      "attempt_index": 4,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_004.json",
+      "source_attempt_sha256": "e0efd4cb4dbb1172b7d6585bf1c9b7f0a7ffa3e8ff54d770888373fa202e75eb",
+      "stored_hessian_condition": 385659508244877.56,
+      "stored_gradient_average_inf": 7.660292023249455e-08,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.70991934375519,
+          -5.056450192925073,
+          0.24901326668404442,
+          0.013395127417335763,
+          2.9797111131408336,
+          0.11384722363428565
+        ],
+        [
+          -5.056450192925073,
+          -8.713898888870396,
+          -0.10176641440076012,
+          0.11010716008888669,
+          0.3206594915993375,
+          0.5050714572947579
+        ],
+        [
+          0.24901326668404442,
+          -0.10176641440076012,
+          -8.461321773139305,
+          -0.16097336121290884,
+          0.30987799169317576,
+          0.08696711242283293
+        ],
+        [
+          0.013395127417335763,
+          0.11010716008888669,
+          -0.16097336121290884,
+          -0.2750534223172217,
+          0.14477454576717697,
+          0.024003535612718094
+        ],
+        [
+          2.9797111131408336,
+          0.3206594915993375,
+          0.30987799169317576,
+          0.14477454576717697,
+          -11.70925184099981,
+          0.650558032743255
+        ],
+        [
+          0.11384722363428565,
+          0.5050714572947579,
+          0.08696711242283293,
+          0.024003535612718094,
+          0.650558032743255,
+          -0.44310975789466983
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.00034056757767150775,
+        "maximum_eigen": 0.02165245722813737,
+        "condition_number": 63.577564770484784,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 7.660292023249455e-08,
+      "optimizer_success": true,
+      "logL": -2848.388280502086,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793085992027714,
+          0.22069140079723185
+        ],
+        "probability_normalization_max_error": 5.773159728050814e-15,
+        "start_source": "precommitted_unconstrained_gaussian_jitter_0.15"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    },
+    {
+      "attempt_index": 5,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_005.json",
+      "source_attempt_sha256": "11538052d484771c2a07d788433a477d32052bacecf91234ecdb5eae48f4f34f",
+      "stored_hessian_condition": 101155358822475.78,
+      "stored_gradient_average_inf": 2.479794721600015e-08,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.709910838428833,
+          -5.056445684103393,
+          0.2490093548522051,
+          0.013395224790734434,
+          2.979706876128001,
+          0.1138463666748547
+        ],
+        [
+          -5.056445684103393,
+          -8.713890726198816,
+          -0.10176470255214426,
+          0.11010665393420252,
+          0.32066572537038796,
+          0.5050716955054411
+        ],
+        [
+          0.2490093548522051,
+          -0.10176470255214426,
+          -8.461318755119876,
+          -0.16097317687175605,
+          0.30988928778765923,
+          0.08696631102049512
+        ],
+        [
+          0.013395224790734434,
+          0.11010665393420252,
+          -0.16097317687175605,
+          -0.2750524602185469,
+          0.14477426607858407,
+          0.024003399162015597
+        ],
+        [
+          2.979706876128001,
+          0.32066572537038796,
+          0.30988928778765923,
+          0.14477426607858407,
+          -11.709239759194887,
+          0.6505580073249317
+        ],
+        [
+          0.1138463666748547,
+          0.5050716955054411,
+          0.08696631102049512,
+          0.024003399162015597,
+          0.6505580073249317,
+          -0.44310693860529354
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.0003405662023829659,
+        "maximum_eigen": 0.021652440806563856,
+        "condition_number": 63.57777329359212,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 2.479794721600015e-08,
+      "optimizer_success": true,
+      "logL": -2848.388280502125,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793088978812309,
+          0.2206911021187669
+        ],
+        "probability_normalization_max_error": 4.440892098500626e-15,
+        "start_source": "precommitted_unconstrained_gaussian_jitter_0.15"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    },
+    {
+      "attempt_index": 6,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_006.json",
+      "source_attempt_sha256": "2f6b3596da1a9fd67b662c28aba5d6b24de992e471e14978a35f782c2e31a513",
+      "stored_hessian_condition": 66636034878561.11,
+      "stored_gradient_average_inf": 4.994228569536829e-08,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.709886034627564,
+          -5.056429947468857,
+          0.24901097599555133,
+          0.013394502681282082,
+          2.979702250778103,
+          0.11384587754349756
+        ],
+        [
+          -5.056429947468857,
+          -8.713872839317963,
+          -0.10176577906972228,
+          0.11010526481093168,
+          0.32064817243693855,
+          0.5050701056747522
+        ],
+        [
+          0.24901097599555133,
+          -0.10176577906972228,
+          -8.461324061904817,
+          -0.16097321745360615,
+          0.3098832174789863,
+          0.08696602528045783
+        ],
+        [
+          0.013394502681282082,
+          0.11010526481093168,
+          -0.16097321745360615,
+          -0.2750538976419617,
+          0.14477193525668208,
+          0.02400213147693534
+        ],
+        [
+          2.979702250778103,
+          0.32064817243693855,
+          0.3098832174789863,
+          0.14477193525668208,
+          -11.709264946291922,
+          0.6505583621189271
+        ],
+        [
+          0.11384587754349756,
+          0.5050701056747522,
+          0.08696602528045783,
+          0.02400213147693534,
+          0.6505583621189271,
+          -0.4431095830217524
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.0003405695961782658,
+        "maximum_eigen": 0.02165239588462399,
+        "condition_number": 63.57700783510478,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 4.994228569536829e-08,
+      "optimizer_success": true,
+      "logL": -2848.38828050173,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793084204255676,
+          0.22069157957443405
+        ],
+        "probability_normalization_max_error": 3.552713678800501e-15,
+        "start_source": "precommitted_unconstrained_gaussian_jitter_0.15"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    },
+    {
+      "attempt_index": 7,
+      "source_attempt_path": "C:\\Users\\chenx\\Desktop\\Jerome-Portfolio-v2\\research-projects\\hamilton1989\\audit\\phase2_runs\\20261015T112551Z_s3\\formal_multistart\\btc_matched_weekly_ms\\attempt_007.json",
+      "source_attempt_sha256": "cbebd2b4307bfb6343b888a4625b90ecb68f6f354bdccf2c52c5dc17788e93fd",
+      "stored_hessian_condition": 22599524390272.426,
+      "stored_gradient_average_inf": 1.1657275255208001e-08,
+      "roundtrip_constrained_max_error": 0.0,
+      "corrected_unconstrained_hessian_step_relative": 0.0001,
+      "corrected_unconstrained_hessian": [
+        [
+          -10.709905774142294,
+          -5.056438548004033,
+          0.2490100014293033,
+          0.013394847731492923,
+          2.979704129582622,
+          0.11384630558133707
+        ],
+        [
+          -5.056438548004033,
+          -8.71387961389813,
+          -0.10176531045730251,
+          0.1101057767150582,
+          0.32065543605282326,
+          0.5050708516357367
+        ],
+        [
+          0.2490100014293033,
+          -0.10176531045730251,
+          -8.46132128865692,
+          -0.16097327401060813,
+          0.3098895139415591,
+          0.08696604399895441
+        ],
+        [
+          0.013394847731492923,
+          0.1101057767150582,
+          -0.16097327401060813,
+          -0.2750534171571451,
+          0.14477277739340846,
+          0.02400264027822018
+        ],
+        [
+          2.979704129582622,
+          0.32065543605282326,
+          0.3098895139415591,
+          0.14477277739340846,
+          -11.70925449628296,
+          0.6505581477613609
+        ],
+        [
+          0.11384630558133707,
+          0.5050708516357367,
+          0.08696604399895441,
+          0.02400264027822018,
+          0.6505581477613609,
+          -0.4431088698758769
+        ]
+      ],
+      "corrected_information": {
+        "minimum_eigen": 0.00034056840234002325,
+        "maximum_eigen": 0.021652422592223053,
+        "condition_number": 63.577309120430904,
+        "positive_definite": true
+      },
+      "corrected_gradient_average_inf": 1.1657275254808077e-08,
+      "optimizer_success": true,
+      "logL": -2848.388280501682,
+      "boundary_flags": {
+        "transition_near_boundary": false,
+        "variance_near_zero": false,
+        "posterior_share_below_2pct": false,
+        "posterior_state_shares": [
+          0.7793085940431458,
+          0.22069140595685216
+        ],
+        "probability_normalization_max_error": 3.9968028886505635e-15,
+        "start_source": "precommitted_unconstrained_gaussian_jitter_0.15"
+      },
+      "audit_qualified_under_original_conservative_gate": true,
+      "original_record_unchanged": true
+    }
+  ]
+}

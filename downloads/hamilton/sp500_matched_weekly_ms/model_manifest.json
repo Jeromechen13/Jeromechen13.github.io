@@ -1,0 +1,58 @@
+{
+  "run_id": "20261015T112551Z_s3",
+  "model_id": "sp500_matched_weekly_ms",
+  "dataset_id": "sp500_daily_kaggle_v1_2010_2024",
+  "source_hash": "4503268f50681c290f6d12256a51e2137564f559f62e885ffe55f0fc16e72b94",
+  "parameter_hash": "77a4887b7badd5bffb8c55f52e3c5c4487a5fe2d3b01f3916197b8032fb32613",
+  "parameter_sample_end": "2024-12-27",
+  "state_mapping": {
+    "status": "identified",
+    "rule": "volatility",
+    "semantic_labels": [
+      "Low volatility",
+      "High volatility"
+    ],
+    "semantic_to_raw": [
+      0,
+      1
+    ],
+    "threshold": 2.2371326893013268e-08,
+    "transition_orientation": "row=destination, column=origin",
+    "means": [
+      0.39561357416528,
+      -0.32352723941941436
+    ],
+    "sigmas": [
+      1.4120924490416433,
+      3.769944012136747
+    ],
+    "transition_destination_by_origin": [
+      [
+        0.9705712695034139,
+        0.09514488801202221
+      ],
+      [
+        0.02942873049658612,
+        0.9048551119879777
+      ]
+    ],
+    "durations": [
+      33.98039885261122,
+      10.510286163494593
+    ]
+  },
+  "selected_attempt_index": 7,
+  "selected_attempt_record_sha256": "26fc573ddd6c6bdd39a4f6c569e9b6e0135827ce8736ffe6540f8fcce5f949fe",
+  "B2_numeric_pass": true,
+  "B4_optimum_reproduced_after_hessian_audit": true,
+  "data_admission": "fixed_verified_source_candidate",
+  "publication_approved": false,
+  "website_build_executed": false,
+  "output_hashes": {
+    "diagnostics.csv": "f8e42365d398c1c95deebbac36cb2c51174840c456f1d48b4af9213a54658aa7",
+    "events.csv": "dfcfc91b91e3ff00676b1094871d17849d476f699b1b47532f6f4609d84c35d2",
+    "parameters.csv": "6b526b35e45aab08e558fbfa556588072adde51b0e24603dc4978d686303fe34",
+    "probabilities.csv": "fdfef3ad2e1bdb1c1de80372cd14eaaf486869090f83f6efcfda028e297e8171"
+  },
+  "execution_status": "S3_candidate_not_published"
+}

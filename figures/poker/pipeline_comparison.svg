@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="489.6pt" viewBox="0 0 864 489.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T23:13:56.504470</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Poker evidence research publication tools</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 489.6 
+L 864 489.6 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 123.4008 197.171712 
+L 300.1752 197.171712 
+Q 310.2192 197.171712 310.2192 191.590272 
+L 310.2192 85.915008 
+Q 310.2192 80.333568 300.1752 80.333568 
+L 123.4008 80.333568 
+Q 113.3568 80.333568 113.3568 85.915008 
+L 113.3568 191.590272 
+Q 113.3568 197.171712 123.4008 197.171712 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 351.0648 197.171712 
+L 527.8392 197.171712 
+Q 537.8832 197.171712 537.8832 191.590272 
+L 537.8832 85.915008 
+Q 537.8832 80.333568 527.8392 80.333568 
+L 351.0648 80.333568 
+Q 341.0208 80.333568 341.0208 85.915008 
+L 341.0208 191.590272 
+Q 341.0208 197.171712 351.0648 197.171712 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 578.7288 197.171712 
+L 755.5032 197.171712 
+Q 765.5472 197.171712 765.5472 191.590272 
+L 765.5472 85.915008 
+Q 765.5472 80.333568 755.5032 80.333568 
+L 578.7288 80.333568 
+Q 568.6848 80.333568 568.6848 85.915008 
+L 568.6848 191.590272 
+Q 568.6848 197.171712 578.7288 197.171712 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 123.4008 375.777792 
+L 300.1752 375.777792 
+Q 310.2192 375.777792 310.2192 370.196352 
+L 310.2192 260.800128 
+Q 310.2192 255.218688 300.1752 255.218688 
+L 123.4008 255.218688 
+Q 113.3568 255.218688 113.3568 260.800128 
+L 113.3568 370.196352 
+Q 113.3568 375.777792 123.4008 375.777792 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 351.0648 375.777792 
+L 527.8392 375.777792 
+Q 537.8832 375.777792 537.8832 370.196352 
+L 537.8832 260.800128 
+Q 537.8832 255.218688 527.8392 255.218688 
+L 351.0648 255.218688 
+Q 341.0208 255.218688 341.0208 260.800128 
+L 341.0208 370.196352 
+Q 341.0208 375.777792 351.0648 375.777792 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 578.7288 375.777792 
+L 755.5032 375.777792 
+Q 765.5472 375.777792 765.5472 370.196352 
+L 765.5472 260.800128 
+Q 765.5472 255.218688 755.5032 255.218688 
+L 578.7288 255.218688 
+Q 568.6848 255.218688 568.6848 260.800128 
+L 568.6848 370.196352 
+Q 568.6848 375.777792 578.7288 375.777792 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 304.183727 136.89216 
+Q 325.618837 136.89216 345.600503 136.89216 
+" clip-path="url(#pcf72cb1096)" style="fill: none; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 340.400503 134.29216 
+L 345.600503 136.89216 
+L 340.400503 139.49216 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #627384; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 211.788 194.705577 
+Q 211.788 226.193304 211.788 256.227587 
+" clip-path="url(#pcf72cb1096)" style="fill: none; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 214.388 251.027587 
+L 211.788 256.227587 
+L 209.188 251.027587 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #627384; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 304.183727 319.2192 
+Q 325.618837 319.2192 345.600503 319.2192 
+" clip-path="url(#pcf72cb1096)" style="fill: none; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 340.400503 316.6192 
+L 345.600503 319.2192 
+L 340.400503 321.8192 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #627384; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 531.847727 319.2192 
+Q 553.282837 319.2192 573.264503 319.2192 
+" clip-path="url(#pcf72cb1096)" style="fill: none; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 568.064503 316.6192 
+L 573.264503 319.2192 
+L 568.064503 321.8192 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #627384; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 667.116 194.705577 
+Q 667.116 226.193304 667.116 256.227587 
+" clip-path="url(#pcf72cb1096)" style="fill: none; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 669.716 251.027587 
+L 667.116 256.227587 
+L 664.516 251.027587 
+z
+" clip-path="url(#pcf72cb1096)" style="fill: #627384; stroke: #627384; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="133.4448" y="108.056493" transform="rotate(-0 133.4448 108.056493)">Shared foundation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 130.901407)">Replay legal pre-action state</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 145.401407)">CNT response probabilities</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 159.901407)">Directional Surprise + Self</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="361.1088" y="108.056493" transform="rotate(-0 361.1088 108.056493)">Competition-era evidence</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(361.1088 131.870157)">Direct OR chain candidates</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(361.1088 145.401407)">61 features • 4-class LightGBM</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(361.1088 159.901407)">Rank by 1 − P(CNT hand)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="588.7728" y="108.056493" transform="rotate(-0 588.7728 108.056493)">Pair / Behavior retained</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(588.7728 131.870157)">43-feature multiclass model</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(588.7728 145.401407)">Risk + hard behavior output</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(588.7728 159.901407)">Original production columns</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="133.4448" y="282.941613" transform="rotate(-0 133.4448 282.941613)">H1: disclosure selection</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 305.786527)">Listed vs undisclosed target</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 320.147465)">Relative time + fixed ci_fb</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 335.755277)">Undisclosed ≠ normal</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="361.1088" y="282.941613" transform="rotate(-0 361.1088 282.941613)">H2: within-pair ranking</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(361.1088 305.786527)">Fixed ABS stage 1 → Top12</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(361.1088 321.255277)">24 consensus + 4 role features</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(361.1088 334.786527)">Strict ancestor cross-fitting</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="588.7728" y="282.941613" transform="rotate(-0 588.7728 282.941613)">Final full-data refit</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(588.7728 306.755277)">92-feature LambdaRank</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(588.7728 320.862308)">H1-D / B0 fallback controls</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(588.7728 334.786527)">112,540 unlabeled pairs</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="51.84" y="22.709344" transform="rotate(-0 51.84 22.709344)">From behavioral anomaly signals to disclosure-aware evidence</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #627384" transform="translate(51.84 459.368854)">S01–S03, S20, S23–S28. Architecture schematic; no empirical performance estimate.</text>
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #627384" transform="translate(51.84 469.571178)">400 studied Development tables; researcher-selection bias. Final refit has no labeled Evaluation score.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcf72cb1096">
+   <rect x="108" y="58.752" width="669.6" height="372.096"/>
+  </clipPath>
+ </defs>
+</svg>

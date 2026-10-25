@@ -1,0 +1,58 @@
+{
+  "run_id": "20261015T112551Z_s3",
+  "model_id": "btc_2025_wednesday_main",
+  "dataset_id": "btc_daily_coinmetrics_2010_2024",
+  "source_hash": "cddc7145c6a375d519506d7b33c06f888e522ba7e800bbf386a81edd094fd8ca",
+  "parameter_hash": "8aab3f2141e6dd1798fe62f61d3bd5885e7e6e45096bc5186777ac24ad16793e",
+  "parameter_sample_end": "2024-10-30",
+  "state_mapping": {
+    "status": "identified",
+    "rule": "volatility",
+    "semantic_labels": [
+      "Low volatility",
+      "High volatility"
+    ],
+    "semantic_to_raw": [
+      0,
+      1
+    ],
+    "threshold": 1.3468453299715068e-07,
+    "transition_orientation": "row=destination, column=origin",
+    "means": [
+      0.7407729012134047,
+      5.321504854817421
+    ],
+    "sigmas": [
+      6.9989245576451475,
+      24.136934430399695
+    ],
+    "transition_destination_by_origin": [
+      [
+        0.9154595679527054,
+        0.26487747959269703
+      ],
+      [
+        0.08454043204729456,
+        0.735122520407303
+      ]
+    ],
+    "durations": [
+      11.828659681329388,
+      3.7753303962938007
+    ]
+  },
+  "selected_attempt_index": 0,
+  "selected_attempt_record_sha256": "e198d6e33b9e8701aaf8a6060439a10b5133fe531019c3da6978bc62adc75da1",
+  "B2_numeric_pass": true,
+  "B4_optimum_reproduced_after_hessian_audit": true,
+  "data_admission": "fixed_verified_source_candidate",
+  "publication_approved": false,
+  "website_build_executed": false,
+  "output_hashes": {
+    "diagnostics.csv": "0c37dba56972bd3d7c5aab651a8f49efcad6e1468cc82609c07f0c4ed7a033b1",
+    "events.csv": "15df50d4ad7ebf6de5ecd6d4d27bbdd75e591d35eb4df10b597c688b7c60ae63",
+    "parameters.csv": "ff016dda21da9c6a46e14ecfc02acdce9d48aaa8b602d91b2e9a2d090857a229",
+    "probabilities.csv": "8263b99c75607bc1da07187c95d93521a59c7c0eaf5261565b6ff30ecff6570e"
+  },
+  "execution_status": "S3_candidate_not_published"
+}

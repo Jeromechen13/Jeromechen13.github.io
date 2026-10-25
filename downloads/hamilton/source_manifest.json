@@ -1,0 +1,175 @@
+{
+  "run_id": "20261015T112551Z_s3",
+  "handoff_sha256": "0c5e98f0836663f8920ad5c3bb8e601016318264fcdec88c653ec0991c33c90c",
+  "index_sha256": "a7c6dece44cd9ee747f15ce29470953eb2b81c38f4ccc7b8d67b4d6e4e8e16c0",
+  "assets": {
+    "hamilton1989_gnp_ar4": {
+      "parameters.csv": {
+        "path": "public/downloads/hamilton/hamilton1989_gnp_ar4/parameters.csv",
+        "sha256": "21cba964cf58ef5aa9cc1eaf95cc2e0fb5c80757f1138cd66543ca34bdaf2b02"
+      },
+      "probabilities.csv": {
+        "path": "public/downloads/hamilton/hamilton1989_gnp_ar4/probabilities.csv",
+        "sha256": "4f48c77c7052b7c680976cdc4c4cdf434e791ef19dd3f0596817c1ee3259e29c"
+      },
+      "events.csv": {
+        "path": "public/downloads/hamilton/hamilton1989_gnp_ar4/events.csv",
+        "sha256": "0ba8c1b2bbda8d8e6de23670deba67e5a50ae8424beb243d2a83ed3b7745bfdd"
+      },
+      "diagnostics.csv": {
+        "path": "public/downloads/hamilton/hamilton1989_gnp_ar4/diagnostics.csv",
+        "sha256": "148e24995411e8e57046c16a88590a8330a4189462ba49e1093a67421fd7677a"
+      },
+      "model_manifest.json": {
+        "path": "public/downloads/hamilton/hamilton1989_gnp_ar4/model_manifest.json",
+        "sha256": "44215a033bb643565ef9f00f11e482a2aa5ec203ace7e7402def71a01a0cb7fa"
+      },
+      "corrected_hessian_audit.json": {
+        "path": "public/downloads/hamilton/hamilton1989_gnp_ar4/corrected_hessian_audit.json",
+        "sha256": "a912406139a0ebd9d96f86c4db1291a9c1f30fb4c8ac29fc46cb5e7401891921"
+      }
+    },
+    "btc_2024_public_data_ms": {
+      "parameters.csv": {
+        "path": "public/downloads/hamilton/btc_2024_public_data_ms/parameters.csv",
+        "sha256": "5d9aaf7bb7d1d498cf154e9717586d3677bec41e531c534c42e36e9254dece3f"
+      },
+      "probabilities.csv": {
+        "path": "public/downloads/hamilton/btc_2024_public_data_ms/probabilities.csv",
+        "sha256": "a2dfc49183adaf070b6663884120478470f607a3efdac330a5a170b7e7eea851"
+      },
+      "events.csv": {
+        "path": "public/downloads/hamilton/btc_2024_public_data_ms/events.csv",
+        "sha256": "f45aace7a0d255afe44eb3fd623348a980c3380a8df67fd832867b91361b8a41"
+      },
+      "diagnostics.csv": {
+        "path": "public/downloads/hamilton/btc_2024_public_data_ms/diagnostics.csv",
+        "sha256": "2ff1864565cc2c0d19a2510d8b41c7fc5be6c20c608fe0a004e2f2f4b8486165"
+      },
+      "model_manifest.json": {
+        "path": "public/downloads/hamilton/btc_2024_public_data_ms/model_manifest.json",
+        "sha256": "360e4c65cc0aecd65d8b267ba004947c166195cf64cc1be29f5cc541b8f0b011"
+      },
+      "corrected_hessian_audit.json": {
+        "path": "public/downloads/hamilton/btc_2024_public_data_ms/corrected_hessian_audit.json",
+        "sha256": "24dac039adc1726d7cbce66ad5a0499ac3c508dfbd11265fcb10f925aa546b57"
+      }
+    },
+    "btc_2025_wednesday_main": {
+      "parameters.csv": {
+        "path": "public/downloads/hamilton/btc_2025_wednesday_main/parameters.csv",
+        "sha256": "ff016dda21da9c6a46e14ecfc02acdce9d48aaa8b602d91b2e9a2d090857a229"
+      },
+      "probabilities.csv": {
+        "path": "public/downloads/hamilton/btc_2025_wednesday_main/probabilities.csv",
+        "sha256": "8263b99c75607bc1da07187c95d93521a59c7c0eaf5261565b6ff30ecff6570e"
+      },
+      "events.csv": {
+        "path": "public/downloads/hamilton/btc_2025_wednesday_main/events.csv",
+        "sha256": "15df50d4ad7ebf6de5ecd6d4d27bbdd75e591d35eb4df10b597c688b7c60ae63"
+      },
+      "diagnostics.csv": {
+        "path": "public/downloads/hamilton/btc_2025_wednesday_main/diagnostics.csv",
+        "sha256": "0c37dba56972bd3d7c5aab651a8f49efcad6e1468cc82609c07f0c4ed7a033b1"
+      },
+      "model_manifest.json": {
+        "path": "public/downloads/hamilton/btc_2025_wednesday_main/model_manifest.json",
+        "sha256": "72e7ec84cb6d3b336b859bd42559ed14b0b180bc6271527a111c841195375473"
+      },
+      "corrected_hessian_audit.json": {
+        "path": "public/downloads/hamilton/btc_2025_wednesday_main/corrected_hessian_audit.json",
+        "sha256": "59ab74878528a1d7d49d64a866ccf7cc2443a8fb90e19e36bc6d862e85440381"
+      }
+    },
+    "sp500_matched_weekly_ms": {
+      "parameters.csv": {
+        "path": "public/downloads/hamilton/sp500_matched_weekly_ms/parameters.csv",
+        "sha256": "6b526b35e45aab08e558fbfa556588072adde51b0e24603dc4978d686303fe34"
+      },
+      "probabilities.csv": {
+        "path": "public/downloads/hamilton/sp500_matched_weekly_ms/probabilities.csv",
+        "sha256": "fdfef3ad2e1bdb1c1de80372cd14eaaf486869090f83f6efcfda028e297e8171"
+      },
+      "events.csv": {
+        "path": "public/downloads/hamilton/sp500_matched_weekly_ms/events.csv",
+        "sha256": "dfcfc91b91e3ff00676b1094871d17849d476f699b1b47532f6f4609d84c35d2"
+      },
+      "diagnostics.csv": {
+        "path": "public/downloads/hamilton/sp500_matched_weekly_ms/diagnostics.csv",
+        "sha256": "f8e42365d398c1c95deebbac36cb2c51174840c456f1d48b4af9213a54658aa7"
+      },
+      "model_manifest.json": {
+        "path": "public/downloads/hamilton/sp500_matched_weekly_ms/model_manifest.json",
+        "sha256": "d2258abcd282db10cda98bfd7a34d52482cbc7d9bdb3f3a1e6bb819eefd2834f"
+      },
+      "corrected_hessian_audit.json": {
+        "path": "public/downloads/hamilton/sp500_matched_weekly_ms/corrected_hessian_audit.json",
+        "sha256": "bc6c1177bf8b66c1f22693b6e7c6444df5b08b999cd093b84232038d3e9217d6"
+      }
+    },
+    "btc_matched_weekly_ms": {
+      "parameters.csv": {
+        "path": "public/downloads/hamilton/btc_matched_weekly_ms/parameters.csv",
+        "sha256": "b91a17ac4f776a1f2c0f42f07d3657b741359b92cf9d09c6771372f46d916473"
+      },
+      "probabilities.csv": {
+        "path": "public/downloads/hamilton/btc_matched_weekly_ms/probabilities.csv",
+        "sha256": "b2d633ba26d460b10e72567acf2c13affe906c48c969fe8112dce6a50d384525"
+      },
+      "events.csv": {
+        "path": "public/downloads/hamilton/btc_matched_weekly_ms/events.csv",
+        "sha256": "e698b67515549441afc8df296cc9e428f067719b48371ef0de01495ada4ea2c8"
+      },
+      "diagnostics.csv": {
+        "path": "public/downloads/hamilton/btc_matched_weekly_ms/diagnostics.csv",
+        "sha256": "696d6ae8dff7970c848ccdf3b3123e7fc58198e9692e5bb2b539ed28861fef03"
+      },
+      "model_manifest.json": {
+        "path": "public/downloads/hamilton/btc_matched_weekly_ms/model_manifest.json",
+        "sha256": "e2d77c646359cd249bd467dd67604f508a433599c7e9d106b84c72cefcf33f0c"
+      },
+      "corrected_hessian_audit.json": {
+        "path": "public/downloads/hamilton/btc_matched_weekly_ms/corrected_hessian_audit.json",
+        "sha256": "01cc331395e6c664a1e9dc956708406dc1b79922da16ddce54bc364004247ade"
+      }
+    },
+    "gnp_benchmark_labels_explicit.csv": {
+      "path": "public/downloads/hamilton/gnp_benchmark_labels_explicit.csv",
+      "sha256": "e6e0e93e5ea806474c5b0f1d8c0ecdc1c65e996070751d2f61d265a7f56be856"
+    },
+    "matched_week_actual_endpoints.csv": {
+      "path": "public/downloads/hamilton/matched_week_actual_endpoints.csv",
+      "sha256": "0cd6574c7e81409740ac352966aae8ba4937068e6c189d688ce909dd061d0529"
+    },
+    "literature_evidence_matrix.csv": {
+      "path": "public/downloads/hamilton/literature_evidence_matrix.csv",
+      "sha256": "7b2ab4d51e1d9e87106194beac0828f393b9a3837d26e00c96ee00159b8aec9e"
+    },
+    "turning_point_comparisons.csv": {
+      "path": "public/downloads/hamilton/turning_point_comparisons.csv",
+      "sha256": "89396a6afd6ccf768c20d032ad8b64805e8cc7ee452d83d39e61c75f78140b21"
+    },
+    "candidate_gnp_classification.csv": {
+      "path": "public/downloads/hamilton/candidate_gnp_classification.csv",
+      "sha256": "4e94235910b6b90f6a423255ef1bb969ad02cc4f53a590b0e1507aebc4b06d73"
+    }
+  },
+  "page_json_sha256": "2286b16b904f756d5dee1a67e083c59984fafe3395bb443fdd83c24429efbd26",
+  "figure_hashes": {
+    "cross_asset_highvol.svg": "db749d503fc7b64edab07f58efec2e44ac8dd17f86581df226492bebfd1489a0",
+    "gnp_probabilities.svg": "cdf4745fc176751f2e881229f55863a78600916a97b523aff3589b6c6459f4ce"
+  },
+  "approved_scope": [
+    "btc_2024_public_data_ms",
+    "btc_2025_wednesday_main",
+    "btc_matched_weekly_ms",
+    "hamilton1989_gnp_ar4",
+    "sp500_matched_weekly_ms"
+  ],
+  "excluded": [
+    "sp500_A0_mean",
+    "sp500_A0_mean_variance",
+    "A1",
+    "full_B1"
+  ]
+}

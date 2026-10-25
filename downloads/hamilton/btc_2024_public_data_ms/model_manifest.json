@@ -1,0 +1,58 @@
+{
+  "run_id": "20261015T112551Z_s3",
+  "model_id": "btc_2024_public_data_ms",
+  "dataset_id": "btc_daily_coinmetrics_2010_2024",
+  "source_hash": "cddc7145c6a375d519506d7b33c06f888e522ba7e800bbf386a81edd094fd8ca",
+  "parameter_hash": "76e8c8ce72a71f6d825459de4f8146e19f246fce34904c6822c17856064a4037",
+  "parameter_sample_end": "2022-09-30",
+  "state_mapping": {
+    "status": "identified",
+    "rule": "growth",
+    "semantic_labels": [
+      "Low growth",
+      "High growth"
+    ],
+    "semantic_to_raw": [
+      0,
+      1
+    ],
+    "threshold": 1.0295274828769721e-07,
+    "transition_orientation": "row=destination, column=origin",
+    "means": [
+      0.08242204201384791,
+      0.12641746270818266
+    ],
+    "sigmas": [
+      2.7803901305605727,
+      11.637201793725373
+    ],
+    "transition_destination_by_origin": [
+      [
+        0.6499889955501378,
+        0.10719791471448926
+      ],
+      [
+        0.3500110044498622,
+        0.8928020852855107
+      ]
+    ],
+    "durations": [
+      2.8570530277234365,
+      9.328539670416149
+    ]
+  },
+  "selected_attempt_index": 5,
+  "selected_attempt_record_sha256": "daf3e619e7246e1f7280e6fec8bd43edab5b54ae254602b92f6cc7482806cd65",
+  "B2_numeric_pass": true,
+  "B4_optimum_reproduced_after_hessian_audit": true,
+  "data_admission": "fixed_verified_source_candidate",
+  "publication_approved": false,
+  "website_build_executed": false,
+  "output_hashes": {
+    "diagnostics.csv": "2ff1864565cc2c0d19a2510d8b41c7fc5be6c20c608fe0a004e2f2f4b8486165",
+    "events.csv": "f45aace7a0d255afe44eb3fd623348a980c3380a8df67fd832867b91361b8a41",
+    "parameters.csv": "5d9aaf7bb7d1d498cf154e9717586d3677bec41e531c534c42e36e9254dece3f",
+    "probabilities.csv": "a2dfc49183adaf070b6663884120478470f607a3efdac330a5a170b7e7eea851"
+  },
+  "execution_status": "S3_candidate_not_published"
+}

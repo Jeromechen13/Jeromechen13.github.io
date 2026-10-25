@@ -1,0 +1,277 @@
+{
+  "scope": "FF3 aggregate research release; explicit paths only; original CSV/Notebook/output/audit/private not packaged",
+  "manifest_entry": "research-projects/ff3/release/PUBLIC_ALLOWLIST.json",
+  "run_id": "20261015T092404Z_FINAL_f60e697a",
+  "files": [
+    {
+      "path": "quant-research/public/figures/ff3/adj_r2_dumbbell.svg",
+      "sha256": "23ac9a37c0ea32fec10820dde2bd0ed4a0c75e6fee271b0b3d2cd1e9431d6cf5",
+      "bytes": 67162
+    },
+    {
+      "path": "quant-research/public/figures/ff3/alpha_heatmaps.svg",
+      "sha256": "1d1895783b506fe7b938df4c71be253fe79c8eaa288cc71f22a5cd8628652e9c",
+      "bytes": 110850
+    },
+    {
+      "path": "quant-research/public/figures/ff3/coverage.svg",
+      "sha256": "fec08d93a99007fe62427c270a496440bfe3ab333c54557b25163c7a362b338a",
+      "bytes": 56248
+    },
+    {
+      "path": "quant-research/public/figures/ff3/factor_cumulative.svg",
+      "sha256": "26ea89ecffda135cf6b6627a5e546f686020e5eec1f0b3f66febbd066ab4a9e4",
+      "bytes": 63284
+    },
+    {
+      "path": "quant-research/public/figures/ff3/loadings.svg",
+      "sha256": "7c3216adc77ab27b5ec1eb5046aac8bd897117fcbd345cd248d8c67371866152",
+      "bytes": 79928
+    },
+    {
+      "path": "quant-research/src/data/ff3.json",
+      "sha256": "4bf9d76650d2833353516fb1921e2aa4064c1c537612d04a8abdbf4f7500b0c5",
+      "bytes": 86553
+    },
+    {
+      "path": "quant-research/src/pages/research/ff3.astro",
+      "sha256": "5ba1d658c85198f2b9d2ff156d388b115cbcad26e4f32793076bd7e420a7030c",
+      "bytes": 17055
+    },
+    {
+      "path": "research-projects/ff3/README.md",
+      "sha256": "5a0cd08370076799cb319981c4ea1d65655399fe3dd2764920b51cdeb7b8f6c0",
+      "bytes": 3307
+    },
+    {
+      "path": "research-projects/ff3/release/config/baseline.json",
+      "sha256": "43d216779e55d2971e009479e0b98649e83b05ae33862a40909d907e261d2c66",
+      "bytes": 764
+    },
+    {
+      "path": "research-projects/ff3/release/display.json",
+      "sha256": "4bf9d76650d2833353516fb1921e2aa4064c1c537612d04a8abdbf4f7500b0c5",
+      "bytes": 86553
+    },
+    {
+      "path": "research-projects/ff3/release/engine/__init__.py",
+      "sha256": "86764d4570414de623e2cfff7a3d65e6a00df48313c75604fd3f655e23a66151",
+      "bytes": 93
+    },
+    {
+      "path": "research-projects/ff3/release/engine/data.py",
+      "sha256": "3715051cc7f5d9ecca81faca7615a6131cdebc8bec71b18a48d848ab4312c116",
+      "bytes": 3655
+    },
+    {
+      "path": "research-projects/ff3/release/engine/portfolios.py",
+      "sha256": "b855c2cd61c64d011c1c7eb0dcac649fe7c5ab1be21230464d8c45c3653d3957",
+      "bytes": 4583
+    },
+    {
+      "path": "research-projects/ff3/release/engine/statistics.py",
+      "sha256": "6c43efe8b360966b9ba1073870cb31719d4faaf15a9401140e51cf7979057441",
+      "bytes": 6136
+    },
+    {
+      "path": "research-projects/ff3/release/evidence/factor_statistics_independent.csv",
+      "sha256": "cb635b01cb19c5e8cec316f90839e06decda15904712eb94ff66ac2e351ec899",
+      "bytes": 637
+    },
+    {
+      "path": "research-projects/ff3/release/evidence/filter_waterfall.csv",
+      "sha256": "759b48380d29abf8fa1527f421215df621df8de17b43fee27a35eb6f59dc6d3e",
+      "bytes": 383
+    },
+    {
+      "path": "research-projects/ff3/release/evidence/formation_filter_losses.csv",
+      "sha256": "b6d4e65b65327cafce9be582715e7882e458ed0fa41bf044d471d36c864b854a",
+      "bytes": 234
+    },
+    {
+      "path": "research-projects/ff3/release/evidence/gap_reentry_factor_diagnostic.csv",
+      "sha256": "140df314370662103237940e702dd2e289f5bcbfcd1a177622ffcc52078fc1c7",
+      "bytes": 8052
+    },
+    {
+      "path": "research-projects/ff3/release/evidence/hac_sensitivity.csv",
+      "sha256": "b98514110b7f0ab89e204d177766bb8595124c7769aaae6b58b4fd222c337dff",
+      "bytes": 26777
+    },
+    {
+      "path": "research-projects/ff3/release/evidence/other_equity_diagnostic_factors.csv",
+      "sha256": "2f38693856c9d12fcb7a1580e2016badb9e9185e4c4e119a8ec60c963ec2ba8a",
+      "bytes": 8356
+    },
+    {
+      "path": "research-projects/ff3/release/evidence/other_equity_diagnostic_switches.csv",
+      "sha256": "17e31e9973f5f6e2d29994ce4c0e2231f5d3d1c93ce7300e38068476d9f9a299",
+      "bytes": 140
+    },
+    {
+      "path": "research-projects/ff3/release/inference.py",
+      "sha256": "a72f4d3a321b396535ff912ae628066a02d14603a3d9d91da1d5aebd68cf9042",
+      "bytes": 3840
+    },
+    {
+      "path": "research-projects/ff3/release/LIMITATIONS.md",
+      "sha256": "280ed38cb877c32fa088aac78f5ea5f3e5081f7a169d07e84c22bf8504272eaa",
+      "bytes": 4626
+    },
+    {
+      "path": "research-projects/ff3/release/METHODS.md",
+      "sha256": "7f41512caacd2016a0fbc292bf78236215a25846307d2354d310d60a24d57d5e",
+      "bytes": 9077
+    },
+    {
+      "path": "research-projects/ff3/release/NUMERICAL_ACCEPTANCE.json",
+      "sha256": "4e0c1eca2389c1ed32f9f9b019433d1aa18078f1007f8ee71b7d93d84a7309e5",
+      "bytes": 83311
+    },
+    {
+      "path": "research-projects/ff3/release/package_public.py",
+      "sha256": "665537d589c9068270245aaa0580511cc05c20281ea625ad03494a4a34e662f5",
+      "bytes": 2847
+    },
+    {
+      "path": "research-projects/ff3/release/plot_figures.py",
+      "sha256": "1554f8711644318ab3ab3af94968c3147595e32e97c4ab40fd8fe114a3e14477",
+      "bytes": 10180
+    },
+    {
+      "path": "research-projects/ff3/release/provenance.json",
+      "sha256": "43067237eb040ab92ff6dde435b9713e812285bd2f24437d789773eea4242fef",
+      "bytes": 7357
+    },
+    {
+      "path": "research-projects/ff3/release/REPRODUCIBILITY.md",
+      "sha256": "4b1394c401dad68453d14a7d9b880ac25462b07e5b3a74f627166cc7fcf27d74",
+      "bytes": 4088
+    },
+    {
+      "path": "research-projects/ff3/release/REPRODUCTION_ACCEPTANCE.json",
+      "sha256": "ea42147100981715ce5ff86682979ce9125f3a1aee07e34d2dc786a6354c3366",
+      "bytes": 30075
+    },
+    {
+      "path": "research-projects/ff3/release/requirements.lock",
+      "sha256": "882734b36b3b6d05c6d680e758df2ba0afe879522901d919d1fcfd861f6d2741",
+      "bytes": 253
+    },
+    {
+      "path": "research-projects/ff3/release/RESULTS.md",
+      "sha256": "1176243cc877a935cc7b9125c07bcf0ed504c515fb9205be607ef857b29bead1",
+      "bytes": 4213
+    },
+    {
+      "path": "research-projects/ff3/release/run_research.py",
+      "sha256": "770608d6e7aa0ce99c152aee91cdafa0ba75dbf79661534aee729b58b6675f47",
+      "bytes": 6689
+    },
+    {
+      "path": "research-projects/ff3/release/tables/alpha_inference.csv",
+      "sha256": "dcb7beec0b297c20c02fff42ec29f976c3867fe70741d51229871f30b8215bc5",
+      "bytes": 30439
+    },
+    {
+      "path": "research-projects/ff3/release/tables/capm_ff3_hac_regressions_all_rf_conventions.csv",
+      "sha256": "9e8a5750190066c9b7a34d8533d1f478c52e517dffb15509a5ca9fb44c8b0794",
+      "bytes": 13756
+    },
+    {
+      "path": "research-projects/ff3/release/tables/capm_ff3_hac_regressions_baseline.csv",
+      "sha256": "1919197adacbe9abd579f63f323b54ede6dbebe01605fcefead236a85e660fb2",
+      "bytes": 6967
+    },
+    {
+      "path": "research-projects/ff3/release/tables/capm_ff3_hac_regressions_rf_end_robustness.csv",
+      "sha256": "2896ea558b4c0cc90320c30128dee1ba2bab5c6c66fc6362bbb622f7b33ba86d",
+      "bytes": 6880
+    },
+    {
+      "path": "research-projects/ff3/release/tables/coefficient_statistics.csv",
+      "sha256": "7604c4f17ebebb5f51e8e14eae448a3e46142843fab20384f5dfbc468d9ec4b4",
+      "bytes": 72209
+    },
+    {
+      "path": "research-projects/ff3/release/tables/diagnostic_summary.csv",
+      "sha256": "2ed1e53ef6c66a97c56056fbffe06345421026bb5943731561425f2f8cca0544",
+      "bytes": 539
+    },
+    {
+      "path": "research-projects/ff3/release/tables/ff3_factor_monthly.csv",
+      "sha256": "5b73299e606358f28b9d64c0928a52676e6cdc70d9092ccd20a773bf5b2c8631",
+      "bytes": 10359
+    },
+    {
+      "path": "research-projects/ff3/release/tables/grs_comparison.csv",
+      "sha256": "7aad154dae91844ee9e76d31d11d5814f9018220c1151ec709107390a31bed18",
+      "bytes": 493
+    },
+    {
+      "path": "research-projects/ff3/release/tables/grs_legacy.csv",
+      "sha256": "99e2331f477aa6c0b97b30ee95ae6599cdb1783536152eedc60317e62fce3056",
+      "bytes": 297
+    },
+    {
+      "path": "research-projects/ff3/release/tables/grs_test.csv",
+      "sha256": "32e4d6f0e19e384386026e64f44b184d7e382e8b98ba65c33b05eb14efd74feb",
+      "bytes": 293
+    },
+    {
+      "path": "research-projects/ff3/release/tables/hac_lag_summary.csv",
+      "sha256": "8b5688e22845810efb0b9dfb5686d65248ffa018b3e87829f625b2726ce58e92",
+      "bytes": 417
+    },
+    {
+      "path": "research-projects/ff3/release/tables/model_comparison_summary.csv",
+      "sha256": "3fb63d944f5296d45ce8b1e4e95011db871c08f10c3233f46aa2b329e1a8d1c7",
+      "bytes": 682
+    },
+    {
+      "path": "research-projects/ff3/release/tables/multiplicity_summary.csv",
+      "sha256": "c643f03efc6e8d5d0f0014754c5b19d25e2e8a33e78653edd3f7ea89075cfaf2",
+      "bytes": 129
+    },
+    {
+      "path": "research-projects/ff3/release/tables/resume_metrics.csv",
+      "sha256": "b31e02480d5cecc95ed913eee516e56c5eafd2faf658b3e39a3b83a18385795e",
+      "bytes": 429
+    },
+    {
+      "path": "research-projects/ff3/release/tables/rf_convention_robustness_comparison.csv",
+      "sha256": "0b96ee84f46fdfe0ea228fd0c5d9e2b22ab0ae6d4be3bab01c796d135f0f32e2",
+      "bytes": 15739
+    },
+    {
+      "path": "research-projects/ff3/release/tables/six_2x3_portfolios.csv",
+      "sha256": "298ad40cf09deae2aee3db846835a7753163be85a2c9f28e4ddfc938f3bda21d",
+      "bytes": 11897
+    },
+    {
+      "path": "research-projects/ff3/release/tables/six_portfolio_monthly_stock_counts.csv",
+      "sha256": "3df38acd4f35749f6c6ef0186501cc1b2c57c05950024c7b58756bbe58ab3c85",
+      "bytes": 36991
+    },
+    {
+      "path": "research-projects/ff3/release/tables/test25_monthly_stock_counts.csv",
+      "sha256": "e82b7b8cae9f8d6479f28a7dac4182ed3101dc13de509b1eaeff96c7545b400b",
+      "bytes": 155639
+    },
+    {
+      "path": "research-projects/ff3/release/tables/test_25_portfolios.csv",
+      "sha256": "08220703755482ce60d725e334880ae4476ac070b18b77b77134c897460d4c37",
+      "bytes": 47343
+    },
+    {
+      "path": "research-projects/ff3/release/verify.py",
+      "sha256": "472801583be3f58b830dadd94943123b57c0979a4487e30963ef84ce83ea6017",
+      "bytes": 7333
+    },
+    {
+      "path": "research-projects/ff3/release/visualization.requirements.lock",
+      "sha256": "48b8c2ed3a6000117fbc384beea3d6635cc22e43e9a0942c37d29cfb09d18473",
+      "bytes": 35
+    }
+  ]
+}

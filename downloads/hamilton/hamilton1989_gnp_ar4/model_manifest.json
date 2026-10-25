@@ -1,0 +1,58 @@
+{
+  "run_id": "20261015T112551Z_s3",
+  "model_id": "hamilton1989_gnp_ar4",
+  "dataset_id": "gnp_dta_historical_v1",
+  "source_hash": "93d2c2e57c999ab08148962545e4ecfe4fb0bf87cf52f9cab787efe1d93c9cf8",
+  "parameter_hash": "625fb36a2aeb795d5db89fa0469d644f1d8cd2c8b290da28be0132706ad517ce",
+  "parameter_sample_end": "1984-10-01",
+  "state_mapping": {
+    "status": "identified",
+    "rule": "growth",
+    "semantic_labels": [
+      "Low growth",
+      "High growth"
+    ],
+    "semantic_to_raw": [
+      0,
+      1
+    ],
+    "threshold": 1.0663818505115535e-08,
+    "transition_orientation": "row=destination, column=origin",
+    "means": [
+      -0.3588127161800798,
+      1.1635165578982682
+    ],
+    "sigmas": [
+      0.7690048128104136,
+      0.7690048128104136
+    ],
+    "transition_destination_by_origin": [
+      [
+        0.7546709725307847,
+        0.09591532317181077
+      ],
+      [
+        0.24532902746921526,
+        0.9040846768281893
+      ]
+    ],
+    "durations": [
+      4.076158497491633,
+      10.425862802012613
+    ]
+  },
+  "selected_attempt_index": 3,
+  "selected_attempt_record_sha256": "4f411bb7616d45548332ffedf2cd1a127f0805a8e70b84d2aeb4225c9d54755c",
+  "B2_numeric_pass": true,
+  "B4_optimum_reproduced_after_hessian_audit": true,
+  "data_admission": "fixed_verified_source_candidate",
+  "publication_approved": false,
+  "website_build_executed": false,
+  "output_hashes": {
+    "diagnostics.csv": "148e24995411e8e57046c16a88590a8330a4189462ba49e1093a67421fd7677a",
+    "events.csv": "0ba8c1b2bbda8d8e6de23670deba67e5a50ae8424beb243d2a83ed3b7745bfdd",
+    "parameters.csv": "21cba964cf58ef5aa9cc1eaf95cc2e0fb5c80757f1138cd66543ca34bdaf2b02",
+    "probabilities.csv": "4f48c77c7052b7c680976cdc4c4cdf434e791ef19dd3f0596817c1ee3259e29c"
+  },
+  "execution_status": "S3_candidate_not_published"
+}

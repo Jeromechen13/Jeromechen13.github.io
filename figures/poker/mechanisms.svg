@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="410.4pt" viewBox="0 0 864 410.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T23:13:56.919275</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Poker evidence research publication tools</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 410.4 
+L 864 410.4 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 123.4008 299.34576 
+L 313.5672 299.34576 
+Q 323.6112 299.34576 323.6112 295.03656 
+L 323.6112 89.91864 
+Q 323.6112 85.60944 313.5672 85.60944 
+L 123.4008 85.60944 
+Q 113.3568 85.60944 113.3568 89.91864 
+L 113.3568 295.03656 
+Q 113.3568 299.34576 123.4008 299.34576 
+z
+" clip-path="url(#p0883031747)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 347.7168 299.34576 
+L 537.8832 299.34576 
+Q 547.9272 299.34576 547.9272 295.03656 
+L 547.9272 89.91864 
+Q 547.9272 85.60944 537.8832 85.60944 
+L 347.7168 85.60944 
+Q 337.6728 85.60944 337.6728 89.91864 
+L 337.6728 295.03656 
+Q 337.6728 299.34576 347.7168 299.34576 
+z
+" clip-path="url(#p0883031747)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 572.0328 299.34576 
+L 762.1992 299.34576 
+Q 772.2432 299.34576 772.2432 295.03656 
+L 772.2432 89.91864 
+Q 772.2432 85.60944 762.1992 85.60944 
+L 572.0328 85.60944 
+Q 561.9888 85.60944 561.9888 89.91864 
+L 561.9888 295.03656 
+Q 561.9888 299.34576 572.0328 299.34576 
+z
+" clip-path="url(#p0883031747)" style="fill: #f3f7fa; stroke: #137c83; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="133.4448" y="109.091565" transform="rotate(-0 133.4448 109.091565)">Soft Play</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 126.932335)">Legal raise opportunity</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 141.432335)">A faces B’s price</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 156.901085)">A does not raise</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 167.67296)"/>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 184.793273)">Signal: −log(1−p_raise)</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 200.401085)">when nonraise occurs</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 211.17296)"/>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(133.4448 228.432335)">Could also be a valid slow-play.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="357.7608" y="109.091565" transform="rotate(-0 357.7608 109.091565)">Directed Transfer</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 126.932335)">A faces B’s price</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 141.293273)">A calls despite low p_call</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 155.932335)">Price and equity condition p</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 167.67296)"/>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 184.793273)">Signal: −log(p_call)</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 200.401085)">when call occurs</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 211.17296)"/>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(357.7608 228.432335)">Call is not realized A→B profit.</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #137c83" x="582.0768" y="109.091565" transform="rotate(-0 582.0768 109.091565)">Coordinated Isolation</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 126.932335)">A applies pressure</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 141.432335)">B has a legal relay opportunity</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 155.932335)">Pair re-aggresses; others exit</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 167.67296)"/>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 184.793273)">Signal: −log(p_relay)</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 199.432335)">when relay occurs</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 211.17296)"/>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #17324d" transform="translate(582.0768 228.432335)">Co-occurrence is not causality.</text>
+   </g>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="51.84" y="21.125344" transform="rotate(-0 51.84 21.125344)">Three observable mechanisms, three limits to interpretation</text>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #627384" transform="translate(51.84 382.940854)">S01–S05. Schematic examples; no empirical population or performance metric.</text>
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #627384" transform="translate(51.84 393.143178)">Methods developed on studied Development labels: researcher-selection bias; no measured real-world cheating accuracy.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0883031747">
+   <rect x="108" y="57.456" width="669.6" height="287.28"/>
+  </clipPath>
+ </defs>
+</svg>
